@@ -1,5 +1,5 @@
 # docker-python-tutorial
-This is a personal project that I created to learn how to use Docker with Python. Through Docker tutorial, I document my journey of creating a Docker container for a simple Python application and running it on my local machine.
+This is a personal project that I created to learn how to use Docker with Python. Through Docker tutorial, I documented my journey of creating a Docker container for a simple Python application and running it on my local machine.
 
 In this tutorial, I've accomplished the following:
 

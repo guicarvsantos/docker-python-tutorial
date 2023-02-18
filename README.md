@@ -10,4 +10,4 @@ In this tutorial, I've accomplished the following:
  - Run the Docker container
  - Interact with the running container
 
-I hope that this tutorial is helpful to others who are also learning Docker and Python. If you have any questions or feedback, feel free to reach out to me.
+I hope that this repo is helpful to others who are also learning Docker and Python. If you have any questions or feedback, feel free to reach out to me.
